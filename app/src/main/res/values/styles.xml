@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LightTheme" parent="Theme.AppCompat.Light">
+        <item name="android:actionButtonStyle">@style/NotificationNotesActionButtonStyle</item>
+    </style>
+
+    <style name="DarkTheme" parent="Theme.AppCompat">
+        <item name="android:actionButtonStyle">@style/NotificationNotesActionButtonStyle</item>
+    </style>
+
+    <style name="NotificationNotesActionButtonStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:minWidth">70dp</item>
+    </style>
+</resources>

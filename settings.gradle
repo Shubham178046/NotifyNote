@@ -1,0 +1,2 @@
+rootProject.name = "NotifyNote"
+include ':app'
